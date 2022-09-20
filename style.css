@@ -1,0 +1,28 @@
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+body{
+    background-color: #F6F8F9;
+}
+
+
+.titolo{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    font-weight: bold;
+    padding: 0 10px;
+}
+
+.testata{
+    margin: 0%;
+    background-color: white;
+}
+
+.contenitore{
+    background-color: white;
+    height: 650px;
+    width: 1020px;
+    margin: 55px 220px 10px 220px;
+}
